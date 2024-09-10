@@ -1,0 +1,16 @@
+# In _config.yml
+title: Guide for researchers
+author: Alice Alonso, Damien Delforge, Marnik Vanclooster
+logo: ~/Sync/ADSCIAN/02_communication/logos partnerslogo/UCLouvain_format_jpg_quadri.png
+execute:
+  execute_notebooks: force
+html:
+  baseurl: "/guide4Researchers2"
+  url: "https://AliceAl.github.io"
+sphinx:
+  config:
+    html_baseurl: "https://AliceAl.github.io/guide4Researchers2"
+
+# Add a bibtex file so that we can create citations
+#bibtex_bibfiles:
+ # - references.bib
