@@ -44,18 +44,14 @@
 <input type="checkbox"> L’usage d’abréviations et d’acronymes est évité dans le résumé et potentiellement dans la conclusion. <br>
 <input type="checkbox"> Le manuscrit contient une section listant les abréviation et acronymes. <br>
 
-**Références**
+**Références et citations**
 
 <input type="checkbox"> Toutes les affirmations dans l’état de l’art et la discussion sont appuyées par des références.<br>
-<input type="checkbox"> Citez les sources les plus pertinentes à l’origine du propos que l’on souhaite appuyer et non une source intermédiaire citant la source originale. <br>
+<input type="checkbox"> Les sources les plus pertinentes à l’origine du propos que l’on souhaite appuyer sont citées, et non une source intermédiaire citant la source originale. <br>
+<input type="checkbox"> Par ordre de priorité les articles scientifiques, les rapports scientifiques, les autres sources d’information disposant d’un identifiant unique (ex : DOI, ISBN) sur une archive officielle sont préférées. Les références à d’autres types de documents doivent être pertinentes et, si possible, mentionner un lien d’accès ainsi que la date d’accès. <br>
 <input type="checkbox"> Les sources sont référencées dans un style de citation reconnu et avec l’utilisation d’un logiciel de gestionnaire bibliographique.<br>
 <input type="checkbox"> Toutes les références sont listées dans un format cohérent dans la section « Bibliographie » à la fin du document.<br>
 
-- Mauvais exemple : <br>
-« Une étude montre que CMAP (Xie global et al. , 1997) et GPCP () retrouvent les mêmes tendances des majeures précipitations bien que les techniques de fusion des données de précipitations satellitaires soient différentes pour les deux ensembles de données. » 
-
-- Bon exemple :<br> 
-Xie global et al. (1997) et Huffman et al. (1997) ont montré que les mêmes tendances des majeures précipitations (…)<br>
 
 **Méthode**
 
@@ -69,7 +65,7 @@ Xie global et al. (1997) et Huffman et al. (1997) ont montré que les mêmes ten
 
 1. **Références et Citations**  
 
-Préférez par ordre de priorité les articles scientifiques, les rapports scientifiques, les autres sources d’information disposant d’un identifiant unique (ex : DOI, ISBN) sur une archive officielle. Les références à d’autres types de documents doivent être pertinentes et, si possible, mentionner un lien d’accès ainsi que la date d’accès. 
+
 
 2. **Choix des adjectifs**
 
