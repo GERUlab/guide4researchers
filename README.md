@@ -6,4 +6,4 @@ To edit the book :
 - Choose the option to commit directly to the main or master branch.
 - Click Commit
 
-  Once you commit the changes, they are automatically added to the repository and the jupyter book will update automatically.
+Once you commit the changes, they are automatically added to the repository and the jupyter book will update automatically.
