@@ -2,7 +2,7 @@
 
 You are about to embark on the great adventure of your thesis project! This project represents a crucial and significant step in your academic journey. It embodies the culmination of your years of learning and training, showcasing the knowledge, skills, and abilities you have acquired throughout your university studies.
 
-As a final project, this thesis (MFE) will allow you to demonstrate your mastery of the subject you have chosen, as well as your ability to conduct in-depth research, critically analyze information, and present clear and relevant conclusions. It is also an opportunity to put into practice the theories and concepts you have learned by applying them to a concrete problem or conducting original research.
+As a final project, this thesis will allow you to demonstrate your mastery of the subject you have chosen, as well as your ability to conduct in-depth research, critically analyze information, and present clear and relevant conclusions. It is also an opportunity to put into practice the theories and concepts you have learned by applying them to a concrete problem or conducting original research.
 
 The MFE also aims to further develop transferable skills such as time management, organization, bibliographic research, scientific writing, and oral presentation. These skills are valuable for your future professional career.
 
