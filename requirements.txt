@@ -1,0 +1,5 @@
+jupyter-book>=0.12.1
+numpy
+matplotlib
+pandas
+# Add any other dependencies here
