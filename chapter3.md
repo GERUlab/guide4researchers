@@ -6,7 +6,7 @@
   To conduct a thorough state of the art, it is necessary to know how to perform rigorous bibliographic research. You can do this via [Scopus](https://www.scopus.com/) and [Google Scholar](https://scholar.google.com/), among others. Please refer to the documents and resources below for a reminder of other tools and sources of information available, and familiarize yourself with the procedures and best practices.
   - [Introduction to Documentary Research](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/ETRPGPP80LRIqRUPHRtAxBMByHd0KIkwXHS0fwoPfz7ySg?e=J4x2bc)
   - [UCLouvain Library](https://uclouvain.be/fr/bibliotheques)
-  - [UCLouvain Infosphere: resources to "save time and do better work"] (https://legacy.bib.uclouvain.be/infosphere/)
+  - [UCLouvain Infosphere: resources to "save time and do better work"](https://legacy.bib.uclouvain.be/infosphere/)
   - [UCLouvain eBook Library](https://dial.uclouvain.be/ebook/) (password required outside UCLouvain network)
   - [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/uclouvainbe/home.action): electronic book library subscribed to by UCLouvain
   
