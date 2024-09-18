@@ -12,6 +12,10 @@
   
   Also, note that you can ask your supervisor to purchase (e-)books that you cannot find in these libraries.
 
+## Access to work by previous students
+[Dial](https://dial.uclouvain.be/memoire/ucl/)
+[Oasis](smb://oasis.uclouvain.be/dfs/groups/e/elie)
+
 ## Reference Manager
   A reference manager such as Zotero allows for more efficient management of academic literature. Such a program helps collect, organize, and manage bibliographic references effectively. It also facilitates the search and extraction of relevant data. Furthermore, it allows you to automatically generate citations and bibliographies that comply with citation standards in your thesis document, whether in Word or LaTeX. Its use is essential.
   
@@ -24,13 +28,19 @@
   - [Online course on scientific writing by Duke University Graduate School](http://sites.duke.edu/scientificwriting/)
   - [Report Writing Recommendations](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/EamS6XLH3NBHl-SJyq_GzegBwYT9q2xoiDH4LrlcEx_esA?e=6rCRqL)
 
-## Word or LaTeX?
-  You can write your document in MS Word or LaTeX. If you choose to work in LaTeX, consider using the online editor [OverLeaf](https://www.overleaf.com).
-
 ## Grammar and Syntax
   Use machine learning applications to check your grammar. Consider, for example, the standard functions of MS Word, as well as additional plugins such as [Grammarly](https://app.grammarly.com/)) if you are writing in English, or Antidote. If you are writing in English, you can also use ChatGPT to improve grammar and syntax. Start by writing the text yourself and ask ChatGPT to correct your English. However, do not ask ChatGPT to generate the content, of course!
 
+## Word or LaTeX?
+  You can write your document in MS Word or LaTeX. If you choose to work in LaTeX, consider using the online editor [OverLeaf](https://www.overleaf.com).
+
+
+## Analytical tools
+
+[Toolbox Land Monitoring by Advanced Earth Observation](https://eo-toolbox-rtd.readthedocs.io/en/latest/)
+
 ## References of useful books or scientific papers
+
 ### Data analysis
 
 #### Books
