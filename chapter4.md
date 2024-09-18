@@ -5,8 +5,8 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | Date          |                                    | Objet                                                                                    |
 |---------------|------------------------------------|------------------------------------------------------------------------------------------|
 | 16/09 - 01/11 | Travail bureautique                | Partir sur des bases solides : revue de la bibliographie et rédaction de l'état de l'art |
-| 18/09         | Réunion de groupe bi-mensuelle     | Présentation contexte et objectifs préliminaires                                         |
-| 25/09         | Réunion de groupe bi-mensuelle     | Séminaire par Alice :  comment bien définir ses hypothèses et objectfis de recherche     |
+| 25/09         | Réunion de groupe bi-mensuelle     | Présentation contexte et objectifs préliminaires                                         |
+| 02/10         | Réunion de groupe bi-mensuelle     | Séminaire par Alice :  comment bien définir ses hypothèses et objectfis de recherche     |
 | 09/10         | Réunion de groupe bi-mensuelle     | Présentation hypothèses et objectifs de recherche retravaillés                           |
 | 01/11         | A déposer dans votre dossier Teams | Remise état de l'art                                                                     |
 | 06/11         | Réunion de groupe bi-mensuelle     | Présentation état de l'art                                                               |
