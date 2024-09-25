@@ -1,10 +1,6 @@
-![image](https://github.com/user-attachments/assets/e05039ac-5232-420f-b4a6-11cbe6e55f80)# Milestone and due dates
+# Milestone and due dates
 
 Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés que si la check-list a été entièrement respectée. 
-· 04-10 13:00 - 13:50 | Sécurité au laboratoire | Présentation & règlement de la plateforme MOCA
-· 11-10 13:00 - 13:50 | Plan expérimental et variabilité analytique
-· 18-10 13:00 - 13:50 | Synthèse bibliographique et question scientifique
-· 25-10 13:00 - 13:50 | Communication orale et support PowerPoint
 
 | Date          |                                    | Objet                                                                                    |
 |---------------|------------------------------------|------------------------------------------------------------------------------------------|
