@@ -8,15 +8,15 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | 25/09         | Réunion de groupe bi-mensuelle     | Présentation contexte et objectifs préliminaires                                         |
 | 02/10         | Réunion de groupe bi-mensuelle     | Séminaire par Alice :  comment bien définir ses hypothèses et objectfis de recherche     |
 | 04/10 (13:00 - 13:50)         | Formations de pôle pour les étudiants mémorants | Sécurité au laboratoire | Présentation & règlement de la plateforme MOCA                                                                   |
-| <span style="color:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
+| <span style="backgroundcolor:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
 | 09/10         | Réunion de groupe bi-mensuelle     | Présentation hypothèses et objectifs de recherche retravaillés                           |
 | 11/10 (13:00 - 13:50)        | Formations de pôle pour les étudiants mémorants     | Plan expérimental et variabilité analytique                           |
-| <span style="color:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
+| <span style="backgroundcolor:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
 | 18/10 (13:00 - 13:50)        | Formations de pôle pour les étudiants mémorants     | Synthèse bibliographique et question scientifique                          |
-| <span style="color:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
+| <span style="backgroundcolor:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
 | 25/10 (13:00 - 13:50)        | Formations de pôle pour les étudiants mémorants     | Communication orale et support PowerPoint
                           |
-                          | <span style="color:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
+                          | <span style="backgroundcolor:blue">Row 2</span> | <span style="color:blue">Colored Data</span> | <span style="color:blue">More Colored Data</span> |
 | 01/11         | A déposer dans votre dossier Teams | Remise état de l'art                                                                     |
 | 06/11         | Réunion de groupe bi-mensuelle     | Présentation état de l'art                                                               |
 | 13/12         | A déposer dans votre dossier Teams | Remise matériel et méthodes - v1                                                         |
