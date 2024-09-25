@@ -8,9 +8,9 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | 25/09         | Réunion de groupe bi-mensuelle     | Présentation contexte et objectifs préliminaires                                         |
 | 02/10         | Réunion de groupe bi-mensuelle     | Séminaire par Alice :  comment bien définir ses hypothèses et objectfis de recherche     |
 | 09/10         | Réunion de groupe bi-mensuelle     | Présentation hypothèses et objectifs de recherche retravaillés                           |
-| <span style="backgroundcolor:blue">11/10 (13:00 - 13:50)  </span>      | <span style="backgroundcolor:blue"> Midis mémorants  </span>   |  <span style="backgroundcolor:blue">Plan expérimental et variabilité analytique</span>                           |
-| <span style="backgroundcolor:blue">18/10 (13:00 - 13:50)   </span>      | <span style="backgroundcolor:blue">Midis mémorants  </span>    | <span style="backgroundcolor:blue">Synthèse bibliographique et question scientifique    </span>                       |
-| <span style="backgroundcolor:blue">25/10 (13:00 - 13:50)  </span>      | <span style="backgroundcolor:blue">Midis mémorants </span>    | <span style="backgroundcolor:blue">Communication orale et support PowerPoint </span>                         |
+| 11/10        |  Midis mémorants    |  Plan expérimental et variabilité analytique                          |
+| 18/10       | Midis mémorants     | Synthèse bibliographique et question scientifique                          |
+| 25/10        | Midis mémorants    | Communication orale et support PowerPoint                         |
 | 27-28/10           | Séminaire de Pôle                  | Premier séminaire de pôle                                                                |
 | 01/11         | A déposer dans votre dossier Teams | Remise état de l'art                                                                     |
 | 06/11         | Réunion de groupe bi-mensuelle     | Présentation état de l'art                                                               |
