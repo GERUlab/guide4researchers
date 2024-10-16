@@ -1,4 +1,4 @@
-# Tools
+![image](https://github.com/user-attachments/assets/41258ad8-3bc9-4356-b472-0397c346d13a)# Tools
 
 ## Literature Review
   The specific questions addressed in a thesis project (MFE) are defined by first conducting a synthesis of the knowledge, also known as the "state of the art." A state of the art is a detailed analysis of existing research on a specific topic. It allows you to catalog, synthesize, and evaluate current knowledge in the field. This is a crucial step to position the research project within the scientific context, identify gaps, and guide the direction of the thesis. It helps formulate relevant research questions and contributes to advancing knowledge in the studied field.
@@ -13,6 +13,7 @@
   Also, note that you can ask your supervisor to purchase (e-)books that you cannot find in these libraries.
 
 ## Access to work by previous students
+WARNING : master's thesis are not peer-reviewed and often contain errors. Read with a critial mind, and always expand your search to peer-reviewed scientific litterature.
 [Dial](https://dial.uclouvain.be/memoire/ucl/)
 [Oasis](smb://oasis.uclouvain.be/dfs/groups/e/elie)
 
@@ -23,10 +24,15 @@
 
  ## Scientific Writing
   A thesis is a scientific document and must therefore adhere to the writing standards for such documents. Although longer than a scientific article, it is advisable to aim for a structure and writing style that closely resemble that of a scientific paper. We therefore encourage you to familiarize yourself with the standards and advice for good scientific writing using the following resources:
-  - [Presentation Support: "How to Write a Good Scientific Paper"](https://uclouvain.sharepoint.com/:p:/s/O365G-GroupederechercheVanclooster/Ea9yYHzjpbFKr6JW_45pBT0Bz_4cdgV-2P5sVl_vv7ZTOg?e=WgZzre)
+  - [Guide for scientific writing. Presentation by Alice Alonso. 06/2023](https://uclouvain.sharepoint.com/:p:/s/O365G-GroupederechercheVanclooster/Ea9yYHzjpbFKr6JW_45pBT0Bz_4cdgV-2P5sVl_vv7ZTOg?e=WgZzre)
+  - [Defining research, objectives, and aims. Presentation by Alice Alonso. 10/2024](https://uclouvain.sharepoint.com/:b:/r/sites/O365G-GroupederechercheVanclooster/Documents%20partages/General/Guide%20me%CC%81moire%20et%20ecriture%20scientifique/hypotheses_and_objectives.pdf?csf=1&web=1&e=36Vw2T)
+ 
+  More advanced : 
+  - [Heard, S. B. (2022). The scientist’s guide to writing: how to write more easily and effectively throughout your scientific career. Princeton University Press.](https://ils.bib.uclouvain.be/uclouvain/documents/1951210)
   - [Mensh, Brett, and Konrad Kording. "Ten Simple Rules for Structuring Papers." *PLOS Computational Biology* 13.9 (2017): e1005619.](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/Efy3HTPelY9HhaGVCtOpJaABa01k8wezWfgtwAlP8t4j3g?e=EofUWB)
   - [Online course on scientific writing by Duke University Graduate School](http://sites.duke.edu/scientificwriting/)
   - [Report Writing Recommendations](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/EamS6XLH3NBHl-SJyq_GzegBwYT9q2xoiDH4LrlcEx_esA?e=6rCRqL)
+
 
 ## Grammar and Syntax
   Use machine learning applications to check your grammar. Consider, for example, the standard functions of MS Word, as well as additional plugins such as [Grammarly](https://app.grammarly.com/)) if you are writing in English, or Antidote. If you are writing in English, you can also use ChatGPT to improve grammar and syntax. Start by writing the text yourself and ask ChatGPT to correct your English. However, do not ask ChatGPT to generate the content, of course!
