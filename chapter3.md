@@ -52,6 +52,10 @@ WARNING : master's thesis are not peer-reviewed and often contain errors. Read w
 #### Books
 - [Helsel, D. R., & Hirsch, R. M. (1993). Statistical methods in water resources. Elsevier.](https://uclouvain.sharepoint.com/:b:/r/sites/O365G-GroupederechercheVanclooster/Documents%20partages/General/References/HelselMirsch1994.pdf?csf=1&web=1&e=RQNY1y)
 - [Nielsen, A. (2019). Practical time series analysis: Prediction with statistics and machine learning. O'Reilly Media.](https://www.ebooks.com/en-be/fulfilment/download/?BookId=209787852&utm_source=Bulletin&utm_medium=Email&utm_campaign=Invoice&utm_content=99464555)
-- 
+  
 #### Papers
 - [Bollen, J., Mao, H., & Zeng, X. (2011). Twitter mood predicts the stock market. Journal of computational science, 2(1), 1-8.](https://www.sciencedirect.com/science/article/pii/S187775031100007X?casa_token=n4luD0zi5NgAAAAA:LML_9V_QPHyQMo6NmQqle8lDmeBKFMqYaO_ouGRENOPk_7pqVAvYIc7yBYkpzNZG5mzED4ufoA)
+
+### Multi criteria analysis
+- [Van Cauwenbergh, N., Biala, K., Bielders, C., Brouckaert, V., Franchois, L., Cidad, V. G., ... & Peeters, A. (2007). SAFE—A hierarchical framework for assessing the sustainability of agricultural systems. Agriculture, ecosystems & environment, 120(2-4), 229-242.](https://www.sciencedirect.com/science/article/pii/S0167880906003331)
+  
