@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41258ad8-3bc9-4356-b472-0397c346d13a)# Tools
+# Tools and resources
 
 ## Literature Review
   The specific questions addressed in a thesis project (MFE) are defined by first conducting a synthesis of the knowledge, also known as the "state of the art." A state of the art is a detailed analysis of existing research on a specific topic. It allows you to catalog, synthesize, and evaluate current knowledge in the field. This is a crucial step to position the research project within the scientific context, identify gaps, and guide the direction of the thesis. It helps formulate relevant research questions and contributes to advancing knowledge in the studied field.
