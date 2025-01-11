@@ -4,7 +4,7 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 
 | Date          |                                    | Objet                                                                                    |
 |---------------|------------------------------------|------------------------------------------------------------------------------------------|
-| Q1 - S01 - S07| Travail bureautique                | Partir sur des bases solides : revue de la bibliographie et rédaction de l'état de l'art   |
+| Q1 - S01 to S07| Travail bureautique                | Partir sur des bases solides : revue de la bibliographie et rédaction de l'état de l'art   |
 | Q1 - S02         | Réunion de groupe bi-mensuelle     | Présentation contexte et objectifs préliminaires                                         |
 | Q1 - S03         | Réunion de groupe bi-mensuelle     | Séminaire par Alice :  comment bien définir ses hypothèses et objectfis de recherche     |
 | Q1 - S04         | Réunion de groupe bi-mensuelle     | Présentation hypothèses et objectifs de recherche retravaillés                           |
