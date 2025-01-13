@@ -17,6 +17,7 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | Q1 - S13        | A déposer dans votre dossier Teams | Remise matériel et méthodes - v1                                                         |
 | Q1 - S13         | Réunion de groupe bi-mensuelle     | Présentation matériel et méthodes                                                        |
 | Q2 - S03         | Réunion de groupe bi-mensuelle     | Présentation résultats intermédiaires                                                    |
+| Q2 - S04         | Réunion de groupe bi-mensuelle     | Séminaire par Alice : Scientific writing|
 | Q2 - S11         | A déposer dans votre dossier Teams | Remise Résultats - v1                                                                    |
 | Q2 - S12          | A déposer dans votre dossier Teams | Remise Etat de l'art, M&M, Résultats - v2                                                |
 | Q2 - S13+2         | A déposer dans votre dossier Teams | Remise document complet - v1                                                             |
