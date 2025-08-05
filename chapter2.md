@@ -1,6 +1,6 @@
 # Working Environment, Supervision, and Collaborations
 
-You are undertaking your thesis project within the Earth and Life Institute – Environmental Sciences (ELIE) department. We encourage you to take advantage of this working environment to interact with experts in your field of study, exchange ideas, and receive constructive feedback and advice. By collaborating with professors, researchers, and other students, you can engage in a stimulating and enriching environment.**
+You ARE undertaking your thesis project within the Earth and Life Institute – Environmental Sciences (ELIE) department. We encourage you to take advantage of this working environment to interact with experts in your field of study, exchange ideas, and receive constructive feedback and advice. By collaborating with professors, researchers, and other students, you can engage in a stimulating and enriching environment.**
 
 ## Welcome Lunch
 ELIE organizes a welcome lunch at the beginning of the academic year. You will receive an invitation soon. This event is also an opportunity to create connections and introduce you to other important aspects related to your thesis project and our research department. Your attendance is highly recommended.
