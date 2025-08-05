@@ -1,4 +1,4 @@
-# TEST Milestone and due dates
+# TEST2 Milestone and due dates
 
 Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés que si la check-list a été entièrement respectée. 
 
