@@ -1,4 +1,4 @@
-# Welcome to your guide for your Master's thesis
+# Welcome to your guide for your Master's thesis, Version 2025-2026
 
 You are about to embark on the great adventure of your thesis project! This project represents a crucial and significant step in your academic journey. It embodies the culmination of your years of learning and training, showcasing the knowledge, skills, and abilities you have acquired throughout your university studies.
 
