@@ -12,9 +12,9 @@
   Also, note that you can ask your supervisor to purchase (e-)books that you cannot find in these libraries.
 
 ## Access to work by previous students
-WARNING : master's thesis are not peer-reviewed and often contain errors. Read with a critial mind, and always expand your search to peer-reviewed scientific litterature.
-[Dial](https://dial.uclouvain.be/memoire/ucl/)
-[Oasis](smb://oasis.uclouvain.be/dfs/groups/e/elie)
+WARNING : master's thesis are not peer-reviewed and often contain errors. Read with a critial mind, and always expand your search to peer-reviewed scientific litterature. Acces to previous master thesis can be obtained using the following links: 
+- [Dial](https://dial.uclouvain.be/memoire/ucl/)
+- [Oasis](smb://oasis.uclouvain.be/dfs/groups/e/elie)
 
 ## Reference Manager
   A reference manager such as Zotero allows for more efficient management of academic literature. Such a program helps collect, organize, and manage bibliographic references effectively. It also facilitates the search and extraction of relevant data. Furthermore, it allows you to automatically generate citations and bibliographies that comply with citation standards in your thesis document, whether in Word or LaTeX. Its use is essential.
@@ -34,11 +34,10 @@ WARNING : master's thesis are not peer-reviewed and often contain errors. Read w
 
 
 ## Grammar and Syntax
-  Use machine learning applications to check your grammar. Consider, for example, the standard functions of MS Word, as well as additional plugins such as [Grammarly](https://app.grammarly.com/)) if you are writing in English, or Antidote. If you are writing in English, you can also use ChatGPT to improve grammar and syntax. Start by writing the text yourself and ask ChatGPT to correct your English. However, do not ask ChatGPT to generate the content, of course!
+  Use machine learning applications to check your grammar. Consider, for example, the standard functions of MS Word, as well as additional plugins such as [Grammarly](https://app.grammarly.com/)) if you are writing in English, or Antidote. If you are writing in English, you can also use ChatGPT to improve grammar and syntax. Start by writing the text yourself and ask ChatGPT to correct your English. However, do not ask ChatGPT to generate the content, of course! Be also aware that the use of AI has an important environmental footprint that we would like to minimize.
 
 ## Word or LaTeX?
-  You can write your document in MS Word or LaTeX. If you choose to work in LaTeX, consider using the online editor [OverLeaf](https://www.overleaf.com).
-
+  You can write your document in MS Word or LaTeX. If you choose to work in LaTeX, consider using the online editor [OverLeaf](https://www.overleaf.com). To facilitate exhange, Pr. Vanclooster has a profesionnal account which allows reviewing and tracing reviewer comments easier. You can transfer your file to Pr. Vanclooster and use his account during the thesis. 
 
 ## Analytical tools
 
