@@ -7,7 +7,6 @@
   - [Introduction to Documentary Research](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/ETRPGPP80LRIqRUPHRtAxBMByHd0KIkwXHS0fwoPfz7ySg?e=J4x2bc)
   - [UCLouvain Library](https://uclouvain.be/fr/bibliotheques)
   - [UCLouvain Infosphere: resources to "save time and do better work"](https://legacy.bib.uclouvain.be/infosphere/)
-  - [UCLouvain eBook Library](https://dial.uclouvain.be/ebook/) (password required outside UCLouvain network)
   - [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/uclouvainbe/home.action): electronic book library subscribed to by UCLouvain
   
   Also, note that you can ask your supervisor to purchase (e-)books that you cannot find in these libraries.
