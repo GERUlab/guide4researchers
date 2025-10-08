@@ -24,7 +24,7 @@ WARNING : master's thesis are not peer-reviewed and often contain errors. Read w
  ## Scientific Writing
   A thesis is a scientific document and must therefore adhere to the writing standards for such documents. Although longer than a scientific article, it is advisable to aim for a structure and writing style that closely resemble that of a scientific paper. We therefore encourage you to familiarize yourself with the standards and advice for good scientific writing using the following resources:
   - [Guide for scientific writing. Presentation by Alice Alonso. 06/2023](https://uclouvain.sharepoint.com/:p:/s/O365G-GroupederechercheVanclooster/Ea9yYHzjpbFKr6JW_45pBT0Bz_4cdgV-2P5sVl_vv7ZTOg?e=WgZzre)
-  - [Defining research, objectives, and aims. Presentation by Alice Alonso. 10/2024](https://uclouvain.sharepoint.com/:b:/r/sites/O365G-GroupederechercheVanclooster/Documents%20partages/General/Guide%20me%CC%81moire%20et%20ecriture%20scientifique/hypotheses_and_objectives.pdf?csf=1&web=1&e=36Vw2T)
+  - [Defining research, objectives, and aims. Presentation by Alice Alonso. 10/2024](https://uclouvain.sharepoint.com/:p:/r/sites/O365G-GroupederechercheVanclooster/Documents%20partages/General/Guide%20me%CC%81moire%20et%20ecriture%20scientifique/hypotheses_and_objectives.pptx?d=w2f463bbcee9e4ee396f144fb0766ba31&csf=1&web=1&e=6gz82c)
  
   More advanced : 
   - [Heard, S. B. (2022). The scientist’s guide to writing: how to write more easily and effectively throughout your scientific career. Princeton University Press.](https://ils.bib.uclouvain.be/uclouvain/documents/1951210)
@@ -43,6 +43,16 @@ WARNING : master's thesis are not peer-reviewed and often contain errors. Read w
 
 [Toolbox Land Monitoring by Advanced Earth Observation](https://eo-toolbox-rtd.readthedocs.io/en/latest/)
 
+## Le SMCS, votre atout statistique !
+
+La plateforme de Support en Méthodologie et Calcul Statistique (SMCS) de l'UCLouvain a pour mission de vous accompagner dans vos projets d'analyse de données. De ce fait, elle vous propose :
+- des conseils personnalisés ;
+- de nombreuses formations ;
+- une aide à la réalisation de vos enquêtes ;
+- un appui dans vos projets de recherche ;
+- la mise à disposition d’outils informatiques utiles à la collecte et à l’analyse de vos données.
+  [Les contacter](https://sites.uclouvain.be/training/smcs/index.php?page=services&spage=consultance&l=fr)
+  
 ## References of useful books or scientific papers
 
 ### Data analysis
