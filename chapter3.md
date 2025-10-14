@@ -4,7 +4,8 @@
   The specific questions addressed in a thesis project (MFE) are defined by first conducting a synthesis of the knowledge, also known as the "state of the art." A state of the art is a detailed analysis of existing research on a specific topic. It allows you to catalog, synthesize, and evaluate current knowledge in the field. This is a crucial step to position the research project within the scientific context, identify gaps, and guide the direction of the thesis. It helps formulate relevant research questions and contributes to advancing knowledge in the studied field.
   
   To conduct a thorough state of the art, it is necessary to know how to perform rigorous bibliographic research. You can do this via [Scopus](https://www.scopus.com/) and [Google Scholar](https://scholar.google.com/), among others. Please refer to the documents and resources below for a reminder of other tools and sources of information available, and familiarize yourself with the procedures and best practices.
-  - [Introduction to Documentary Research](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/ETRPGPP80LRIqRUPHRtAxBMByHd0KIkwXHS0fwoPfz7ySg?e=J4x2bc)
+  - [Introduction to Documentary Research (old version 2015)](https://uclouvain.sharepoint.com/:b:/s/O365G-GroupederechercheVanclooster/ETRPGPP80LRIqRUPHRtAxBMByHd0KIkwXHS0fwoPfz7ySg?e=J4x2bc)
+  - [Introduction to Documentary Research (release 2025)] (https://www.uclouvain.be/fr/bibliotheques/guides-et-tutoriels?pk_vid=01d2eabce71ea91917604483669bbd3f)
   - [UCLouvain Library](https://uclouvain.be/fr/bibliotheques)
   - [UCLouvain Infosphere: resources to "save time and do better work"](https://legacy.bib.uclouvain.be/infosphere/)
   - [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/uclouvainbe/home.action): electronic book library subscribed to by UCLouvain
