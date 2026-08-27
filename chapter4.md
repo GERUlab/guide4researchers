@@ -2,23 +2,22 @@
 
 Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés que si la check-list a été entièrement respectée.
 
-17-09-25	13h	Salle Rivière 	Group meeting 	  |
-19-09-25	13h	Salle Rivière 	Formation à l'écriture d'un mémoire  |	
-24-sept	13h	Salle Rivière 	Group meeting 	  |
-01-oct	14h	Salle Rivière 	Group meeting 	Formulation de la question de recherche, de l'objectif général, de l'objectif spécifique, de l' hypothèse de travail et questions de recherche à aborder dans l'étude bibliographie  |
-08-oct	13h	Salle Rivière 	Group meeting  | 	
-15-oct	13h	Salle Rivière 	Group meeting 	Equation de recherche pour l'étude bibliographique  |
-22-oct	13h	Salle Taiga	Group meeting 	  |
-27-oct	Voir ADE	Voir ADE	Accompagnying seminar	Seminaire Q1  |
-27-oct	Voir ADE	Voir ADE	Accompagnying seminar	Seminaire Q1  |
-29-oct	13h	Salle Rivière 	Group meeting 	Ebauche protocole méthodologique   | 
-05-nov	13h	Salle Rivière 	Group meeting 	  |
-12-nov	14h	Salle Rivière 	Group meeting 	  |
-20-nov	9h00	Salle Rivière 	Group meeting 	  |
-27-nov	14h	Salle Rivière 	Group meeting 	  |
-04-déc	13h	Salle Rivière 	Group meeting 	  |
-12-déc	13h	Salle Rivière 	Group meeting 	  |
-17-déc	13h	Salle Rivière 	Group meeting 	Ebauche 'Etat de l'art'  |
+02-09-26	09h	Salle Rivière 	Group meeting 	  |
+09-09-26	09h	Salle Rivière 	Formation à l'écriture d'un mémoire  |	
+16-09-26 14h	Salle Rivière 	Group meeting 	  |
+23-09-26	09h	Salle Rivière 	Group meeting 	Formulation de la question de recherche, de l'objectif général, de l'objectif spécifique, de l' hypothèse de travail et questions de recherche à aborder dans l'étude bibliographie  |
+30-09-26 14h	Salle Rivière 	Group meeting  | 	
+08-10-26 09h  Salle Rivière 	Group meeting 	Equation de recherche pour l'étude bibliographique  |
+15-10-26 09h	Salle Rivière 	Group meeting 	  |
+21-10-26 09h	Salle Rivière 	Group meeting 	  |
+28-10-26 14h	Salle Rivière 	Group meeting 	  |
+06-11-26 09h	Salle Rivière 	Group meeting 	Ebauche protocole méthodologique   | 
+13-11-26 09h	Salle Rivière 	Group meeting 	  |
+18-11-26 14h	Salle Rivière 	Group meeting 	  |
+02-12-26 09h	Salle Rivière 	Group meeting 	  |
+16-12-26 13h	Salle Rivière 	Group meeting 	  Ebauche 'Etat de l'art'  |
+
+
 
 
 
