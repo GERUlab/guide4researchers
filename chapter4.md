@@ -40,3 +40,7 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | Mercredi | 18-11-26, 14h | Salle Rivière |
 | Mercredi | 02-12-26, 09h | Salle Rivière |
 | Mercredi | 16-12-26, 13h | Salle Rivière |
+
+
+
+
