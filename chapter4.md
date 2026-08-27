@@ -24,22 +24,22 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 
 **Calendrier des réunions de groupe 2026-2027: 
 **
-| Jour | Date et heure | Salle |
-|---|---|---|
-| Mercredi | 02-09-26, 09h | Salle Rivière |
-| Mercredi | 09-09-26, 09h | Salle Rivière |
-| Mercredi | 16-09-26, 14h | Salle Rivière |
-| Mercredi | 23-09-26, 09h | Salle Rivière |
-| Mercredi | 30-09-26, 14h | Salle Rivière |
-| Jeudi | 08-10-26, 09h | Salle Rivière |
-| Jeudi | 15-10-26, 09h | Salle Rivière |
-| Mercredi | 21-10-26, 09h | Salle Rivière |
-| Mercredi | 28-10-26, 14h | Salle Rivière |
-| Vendredi | 06-11-26, 09h | Salle Rivière |
-| Vendredi | 13-11-26, 09h | Salle Rivière |
-| Mercredi | 18-11-26, 14h | Salle Rivière |
-| Mercredi | 02-12-26, 09h | Salle Rivière |
-| Mercredi | 16-12-26, 13h | Salle Rivière |
+| Jour | Date | Heure | Salle |
+|---|---|---|---|
+| Mercredi | 02-09-26 | 09h | Salle Rivière |
+| Mercredi | 09-09-26 | 09h | Salle Rivière |
+| Mercredi | 16-09-26 | 14h | Salle Rivière |
+| Mercredi | 23-09-26 | 09h | Salle Rivière |
+| Mercredi | 30-09-26 | 14h | Salle Rivière |
+| Jeudi | 08-10-26 | 09h | Salle Rivière |
+| Jeudi | 15-10-26 | 09h | Salle Rivière |
+| Mercredi | 21-10-26 | 09h | Salle Rivière |
+| Mercredi | 28-10-26 | 14h | Salle Rivière |
+| Vendredi | 06-11-26 | 09h | Salle Rivière |
+| Vendredi | 13-11-26 | 09h | Salle Rivière |
+| Mercredi | 18-11-26 | 14h | Salle Rivière |
+| Mercredi | 02-12-26 | 09h | Salle Rivière |
+| Mercredi | 16-12-26 | 13h | Salle Rivière |
 
 
 
