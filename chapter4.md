@@ -1,6 +1,8 @@
 # Milestone and due dates
 
+## Calendrier générique
 Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés que si la check-list a été entièrement respectée.
+
 
 | Date          |                                    | Objet                                                                                    |
 |---------------|------------------------------------|------------------------------------------------------------------------------------------|
@@ -22,8 +24,7 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | TBD           | Séminaire de Pôle                  | Deuxième séminaire de pôle                                                               |
 | TBD           | A déposer dans votre dossier Teams | Remise document final                                                                    |
 
-**Calendrier des réunions de groupe 2026-2027: 
-**
+## Calendrier des réunions de groupe 2026-2027: 
 | Jour | Date | Heure | Salle |
 |---|---|---|---|
 | Mercredi | 02-09-26 | 09h | Salle Rivière |
@@ -41,6 +42,9 @@ Notez que les manuscrits, ce compris les intermédiaires, ne seront révisés qu
 | Mercredi | 02-12-26 | 09h | Salle Rivière |
 | Mercredi | 16-12-26 | 13h | Salle Rivière |
 
-
+## Dates autres évènements année 2026-2027
+Séminaires de pôle : 
+Q1 : les 26 et 27 octobre 2026, de 8h30 à 18h15 ;
+Q2 : les 15 et 16 avril 2027, de 8h30 à 18h15
 
 
